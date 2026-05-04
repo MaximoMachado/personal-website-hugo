@@ -17,7 +17,7 @@ pageRef = "about"
 weight = 10
 
 [[main]]
-name = "Blog"
+name = "Posts"
 pageRef = "posts"
 weight = 20
 
@@ -25,6 +25,11 @@ weight = 20
 name = "Projects"
 pageRef = "projects"
 weight = 30
+
+[[main]]
+name = "Photos"
+pageRef = "photos"
+weight = 40
 
 
 # -- Footer Menu --
