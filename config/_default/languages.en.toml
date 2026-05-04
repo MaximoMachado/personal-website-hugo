@@ -1,0 +1,28 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Maximo Machado"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+# logo = "img/logo.png"
+# secondaryLogo = "img/secondary-logo.png"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+name = "Maximo Machado"
+email = "maximomachado246@gmail.com"
+#   image = "img/blowfish_logo.png"
+#   imageQuality = 96
+headline = "Software Engineer since 2023. Aspiring to build great software."
+#   bio = "A little bit about you"
+links = [
+  { github = "https://github.com/MaximoMachado" },
+  { linkedin = "https://linkedin.com/in/maximomachado" },
+  { spotify = "https://www.spotifyplaylistmanager.net" },
+]
