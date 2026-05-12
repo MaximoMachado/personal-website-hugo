@@ -9,18 +9,18 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-# logo = "img/logo.png"
-# secondaryLogo = "img/secondary-logo.png"
+# logo = "lemon_drop.jpg"
+# secondaryLogo = "photography/lemon_drop.jpg"
 description = "Maximo's Personal Website for my software development journey."
-# copyright = "Copy, _right?_ :thinking_face:"
+# copyright = ""
 
 [params.author]
 name = "Maximo Machado"
 email = "maximomachado246@gmail.com"
-#   image = "img/blowfish_logo.png"
+image = "profile_picture.jpg"
 #   imageQuality = 96
-headline = "Software Engineer since 2023. Aspiring to build great software."
-#   bio = "A little bit about you"
+headline = "Software Engineer since 2023. Passionate about building software that lasts."
+#bio = "A little bit about you"
 links = [
   { github = "https://github.com/MaximoMachado" },
   { linkedin = "https://linkedin.com/in/maximomachado" },
