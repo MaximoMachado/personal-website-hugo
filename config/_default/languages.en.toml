@@ -23,6 +23,6 @@ headline = "Software Engineer since 2023. Passionate about building software tha
 #bio = "A little bit about you"
 links = [
   { github = "https://github.com/MaximoMachado" },
-  { linkedin = "https://linkedin.com/in/maximomachado" },
+  { linkedin = "https://linkedin.com/in/maximo-machado" },
   { spotify = "https://www.spotifyplaylistmanager.net" },
 ]
